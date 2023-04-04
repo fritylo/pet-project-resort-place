@@ -1,0 +1,13 @@
+{
+    "name": "fritylo/resort-place.loc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fritylo",
+            "email": "to.fritylo@gmail.com"
+        }
+    ],
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    }
+}

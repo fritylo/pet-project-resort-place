@@ -1,0 +1,12 @@
+{
+    "crimea": {
+        "name": "Крым",
+        "description": "Крым – настоящий рай для туристов и отдыхающих. На небольшой территории раскинулись не только величественные горы, но и великолепные морские курорты, считающиеся визитной карточкой полуострова. Крымские пляжи пользуются большой популярностью среди жителей России, Украины и ближайших стран. Самые популярные места для летнего отдыха в Крыму у моря: большая Ялта, Алушта, Евпатория, Феодосия.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%93%D0%BE%D1%80%D1%8B_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5%2C_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%A1%D0%B2%D0%B5%D1%82%2C_%D0%A1%D1%83%D0%B4%D0%B0%D0%BA%2C_%D0%9A%D1%80%D1%8B%D0%BC%2C_Crimea.jpg"
+    },
+    "istanbul": {
+        "name": "Стамбул",
+        "description": "Few cities on the planet come close to Istanbul. That sentence is true no matter the qualifier. The Turkish capital is one of the world’s great cities, a hugely influential location in the history of this marvellous planet. It also happens to be absolutely massive, a chaotic metropolis that isn’t going to slow down for anyone. Best jump into a Hamam for a serene scrub then, right?<br><br>The best things to do in Istanbul are every bit as varied and exciting as the city itself, covering everything from world-changing attractions to the best antique shops going. Food, fascination and fun merge perfectly here. Istanbul takes some getting used to, but let yourself get swept away by the wonder of this place. ",
+        "picture": "https://media.timeout.com/images/105859738/750/422/image.jpg"
+    }
+}
